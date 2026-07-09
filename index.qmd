@@ -1,0 +1,77 @@
+---
+title: ""
+---
+
+## Qinglin Ouyang (欧阳庆霖)
+
+<div class="top-section">
+<div class="bio">
+
+A warm welcome — I’m glad you stopped by.
+
+I am currently a Postdoctoral Researcher in Finance at Stockholm Business School, Stockholm University, where I also earned my PhD in Finance in 2025. I was a visiting PhD student at Saïd Business School, University of Oxford and Swedish House of Finance, Stockholm School of Economics. I will be joining Aalto University as a postdoc in Fall 2026.
+
+My research focuses on **household finance**, **FinTech**, **behavioral finance**, and **labor finance**, using large-scale administrative microdata. I am particularly interested in identifying heuristics and simple decision rules that shape seemingly complex household behaviors.
+
+<div class="contact-links"><a href="mailto:qinglin.ouyang@sbs.su.se" title="Email"><i class="bi bi-envelope"></i></a><a href="https://scholar.google.com/citations?user=poYW1V0AAAAJ" title="Google Scholar"><i class="ai ai-google-scholar"></i></a><a href="https://www.linkedin.com/in/qinglin-ouyang-199730118/" title="LinkedIn"><i class="bi bi-linkedin"></i></a><a href="https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=5010638" title="SSRN"><i class="ai ai-ssrn"></i></a><a href="assets/CV.pdf" title="CV"><i class="ai ai-cv"></i></a></div>
+
+</div>
+<div class="headshot">
+<img src="assets/photo.jpg" alt="Qinglin Ouyang">
+</div>
+</div>
+
+---
+
+## Publications
+
+**[From Employee to Entrepreneur: The Role of Unemployment Risk](https://www.sciencedirect.com/science/article/pii/S0304405X24001892)** <span class="coauthors">(with [Ai Jun Hou](https://daisyaijun.com/), [Sara Jonsson](https://www.su.se/english/profiles/s/sajo3069), & [Xiaoyang Li](https://experts.deakin.edu.au/46688-xiaoyang-li))</span>
+<span class="journal">*Journal of Financial Economics*, 2025</span>
+
+<p class="finding">Increased unemployment risk, instead of actual unemployment outcome, causally nudges employees into entrepreneurship. This nudge, however, is not associated with poor ex-post personal income or firm quality.</p>
+<p class="media-links"><strong>Media:</strong> <a href="https://www.hhs.se/en/houseoffinance/research/featured-topics/2024/risky-business--how-job-insecurity-pushes-employees-towards-entrepreneurship/">Swedish House of Finance</a>, <a href="https://www.dn.se/debatt/nya-turordningsregler-kan-framja-eget-foretagande/">DN Debatt</a>, <a href="https://esbri.se/ny-forskning-otrygg-anstallning-okar-chansen-att-starta-eget/">ESBRI</a></p>
+
+**[Effects of Cultural Origin on Entrepreneurship](https://www.sciencedirect.com/science/article/pii/S0167268123003864)** <span class="coauthors">(with [Sara Jonsson](https://www.su.se/english/profiles/s/sajo3069))</span>
+<span class="journal">*Journal of Economic Behaviour & Organization*, 2023</span>
+
+<p class="finding">Individuals with stronger cultural risk-taking appetite are more likely to become entrepreneurs, although with poorer firm performance after the transition.</p>
+
+---
+
+## Working Papers
+
+**[The Mechanical Disposition Effect](assets/Mechanical_DE_OO.pdf)** <span class="coauthors">(with [Shumiao Ouyang](https://www.shumiaoouyang.com/))</span> &nbsp; <a class="paper-link" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5243056">[SSRN]</a>
+<span class="venues">Selected talks: AFA 2027, Paris Dec 2026, RBFC 2026, PAM 2026, Tsinghua SEM, Aalto, Oxford Saïd</span>
+
+<details>
+<summary>Abstract</summary>
+<p>We revisit the disposition effect and argue that it is best understood not as a primitive behavioral bias, but as a reduced-form outcome of stable investment styles. Using a unique inter-linked dataset that combines a large-scale experiment with real-world mutual fund transactions, we document strong within-investor persistence in disposition behavior across time and contexts. This persistence is largely driven by a fixed investment style: contrarian investors exhibit a substantially stronger disposition effect, while it is minimal for momentum investors. Investment style explains far more variation in the disposition effect than standard demographic and socioeconomic characteristics. By contrast, realization preference is generally shared. We provide some of the first field evidence that it accounts for roughly 10% of the bias via a sharp jump at the zero-return threshold. Overall, our findings suggest that the disposition effect often emerges as a structural outcome of price-based trading rules, rather than a generic behavioral bias.</p>
+</details>
+
+**Yield Salience: Consumer Demand for Digital Money** <span class="coauthors">(with [Shumiao Ouyang](https://www.shumiaoouyang.com/) & [Cameron Peng](https://sites.google.com/site/cameronpengresearch/))</span>
+<span class="venues">Draft forthcoming</span>
+
+
+<details>
+<summary>Abstract</summary>
+<p>We study how consumers respond to interest incentives in digital payment environments by exploiting quasi-random variation in money market fund yields on Alipay's Yu'ebao platform. Linking over a million user-month observations to user-specific yields, we estimate the elasticity of digital money demand at both extensive and intensive margins. A one-percentage-point increase in yield raises the probability of adoption by 5.6 pp and balances by 27%, largely through net inflows rather than internal reshuffling. Interestingly, we find no detectable response when yields are below 2%, suggesting a salience threshold in consumers' attention to interest rates. This behavioral nonlinearity implies that interest-bearing digital payment instruments may have limited traction in low-rate environments—a key consideration for central banks contemplating interest-bearing CBDCs. More broadly, our findings highlight how interest incentives shape household financial behavior in digital ecosystems.</p>
+</details>
+
+**[In and down: The Costs of Immigrant Investors](assets/In_and_down_Ouyang.pdf)** &nbsp; <a class="paper-link" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4781698">[SSRN]</a>
+<span class="venues">Selected talks: Luxembourg Household Finance Workshop 2025, PhD Nordic Finance Workshop 2024, BFWG 2024, RBFC 2024</span>
+
+
+<details>
+<summary>Abstract</summary>
+<p>This paper examines the portfolio diversification gap between immigrant and native-born investors using a comprehensive administrative dataset from Sweden. Leveraging a carefully matched investor sample, I document that immigrant investors incur a 37% higher return loss compared to natives, driven predominantly by underdiversification instead of high risky share. This gap persists even among second-generation immigrants, suggesting intergenerational disparities in wealth accumulation. I identify two key drivers: social integration and financial literacy. Immigrants with native-born partners or from countries with higher financial literacy levels experience lower return losses. However, merely extending the duration of stay in Sweden does not mitigate the gap. These findings highlight the need for policies that facilitate social integration and promote financial education to improve immigrants' financial outcomes.</p>
+</details>
+
+---
+
+## Selected Work in Progress
+
+**What Matters to Investors Around the World?** <span class="coauthors">(with [Christoph Huber](https://chr-huber.com/), [Elias Rantapuska](https://eliasrantapuska.fi/), & [Paul Smeets](https://www.paulsmeets.eu/))</span>
+
+**Family Formation and Portfolio Choice** <span class="coauthors">(with [Yifan Lyu](https://sites.google.com/view/yifan-lyu/home))</span>
+
+---
